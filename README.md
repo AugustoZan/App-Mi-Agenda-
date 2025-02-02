@@ -1,6 +1,7 @@
 # Mi Agenda
 
-**Mi Agenda** es una aplicación diseñada para agendar contactos para el usuario. , guardado de contactos ( no se pierden los contactos al cerrar la app) y un buscador
+**Mi Agenda** es una aplicación diseñada para agendar contactos para el usuario. , guardado de contactos ( no se pierden los contactos al cerrar la app) y un buscador. 
+El nombre de usuario es **usuario_tudai** y la contraseña es **1234**
 
 ## Características
 
