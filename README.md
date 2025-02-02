@@ -18,6 +18,7 @@ Para instalar la aplicación, sigue estos pasos:
    git clone https://github.com/AugustoZan/App-Mi-Agenda-.git
 
 ![image](https://github.com/user-attachments/assets/d7837d9d-cfd8-4a94-91ec-def715598ef9)
-![agenda](https://github.com/user-attachments/assets/1141173f-f7d6-421a-8276-55bc7e65e94d)
-![agregar](https://github.com/user-attachments/assets/7220a28d-2638-421a-b6e2-3c0b334ee042)
+![image](https://github.com/user-attachments/assets/586edc20-0f7d-4111-9c03-e4171f7db923)
+![image](https://github.com/user-attachments/assets/4d381576-3dd3-4f8b-ac97-f4b0ff637cc1)
+
 
