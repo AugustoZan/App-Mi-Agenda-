@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="generos">
+        <item>Femenino</item>
+        <item>Masculino</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#81c9fa</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="apellido">Apellido</string>
+    <string name="app_name">Proyecto_de_Contactos_IUA</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="femenino">Femenino</string>
+    <string name="genero">Género</string>
+    <string name="masculino">Masculino</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="titulo_agregar">Agregar</string>
+    <string name="titulo_modificar">Modificar</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.AppCompat.Light.NoActionBar">
+        
+        
+    </style>
+    <style name="BotonRedondo">
+        <item name="android:backgroundTint">@color/black</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:stateListAnimator">@null</item>
+        <item name="android:shape">oval</item>
+    </style>
+    <style name="Theme.MyApplication" parent="Base.Theme.MyApplication"/>
+</resources>
