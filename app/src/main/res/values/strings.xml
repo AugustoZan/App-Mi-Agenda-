@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Proyecto_de_Contactos_IUA</string>
+    <string-array name="generos">
+        <item>Femenino</item>
+        <item>Masculino</item>
+    </string-array>
+    <string name="titulo_agregar">Agregar</string>
+    <string name="titulo_modificar">Modificar</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="telefono">Teléfono</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="genero">Género</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+</resources>
